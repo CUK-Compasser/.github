@@ -1,4 +1,4 @@
-# .github
+# 대학교 주변 마감 할인 플랫폼 - Compasser
 
 <img src="../assets/MainSlide.png">
 
